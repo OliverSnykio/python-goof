@@ -1,0 +1,2 @@
+# GPLv3 licensed Pegl library
+Pegl==0.2a1
